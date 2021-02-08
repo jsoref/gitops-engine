@@ -1,0 +1,9 @@
+(?:^|/)(?i)LICENSE
+/sealedsecret
+/wordpres
+ignore$
+\.mod$
+\.sum$
+^OWNERS$
+^pkg/diff/diff_test\.go$
+^\.github/
